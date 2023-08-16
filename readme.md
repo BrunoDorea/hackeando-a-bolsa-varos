@@ -20,9 +20,13 @@
 
 Os projetos desse repositório foram desenvolvidos para o evento Hackeando a Bolsa da VAROS.
 
-- Projeto 1: Criando um modelo de investimento na prática: Backtest da Magic Fórmula
-- Projeto 2: Gerando automaticamente a carteira do modelo e enviando por e-mail
-- Projeto 3: Conectando o modelo na bolsa e automatizando as compras e vendas
+### Projeto 1: Criando um modelo de investimento na prática: Backtest da Magic Fórmula
+
+[Aula_01](./aula_01/main.ipynb)
+
+### Projeto 2: Gerando automaticamente a carteira do modelo e enviando por e-mail
+
+### Projeto 3: Conectando o modelo na bolsa e automatizando as compras e vendas
 
 ## 🚀 Tecnologias
 
