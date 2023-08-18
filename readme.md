@@ -26,6 +26,8 @@ Os projetos desse repositório foram desenvolvidos para o evento Hackeando a Bol
 
 ### Projeto 2: Gerando automaticamente a carteira do modelo e enviando por e-mail
 
+[Aula_02](./aula_02/main.ipynb)
+
 ### Projeto 3: Conectando o modelo na bolsa e automatizando as compras e vendas
 
 ## 🚀 Tecnologias
