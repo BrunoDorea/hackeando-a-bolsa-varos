@@ -30,6 +30,8 @@ Os projetos desse repositório foram desenvolvidos para o evento Hackeando a Bol
 
 ### Projeto 3: Conectando o modelo na bolsa e automatizando as compras e vendas
 
+[Aula_03](./aula_03/main.ipynb)
+
 ## 🚀 Tecnologias
 
 <p align="center">
